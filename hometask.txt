@@ -1,0 +1,12 @@
+В demo 7 коммитов и есть отличия в файле README
+10 коммитов
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
